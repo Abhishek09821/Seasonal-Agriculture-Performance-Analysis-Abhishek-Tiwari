@@ -1,0 +1,10 @@
+FINAL SUBMISSION CHECKLIST
+
+[ ] Enter College Name on Slide 1
+[ ] Enter AICTE STU ID on Slide 1
+[ ] Run all notebook cells successfully
+[ ] Create a GitHub repository and replace the URL on Slide 12
+[ ] Complete VOIS Data Visualization course
+[ ] Add the Data Visualization certificate to Slide 13 / submission if required
+[ ] Open the submission form: https://forms.gle/SvSPEpJagzA2UQZH8
+[ ] Submit before 10 September 2026
