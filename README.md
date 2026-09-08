@@ -37,8 +37,3 @@ Open the notebook in Jupyter Notebook, JupyterLab or Google Colab. Upload `clean
 5. Review the PPT and notebook once in presentation mode / notebook output mode.
 6. Open the official submission form and enter your personal details and the requested links/files.
 
-## Suggested GitHub repository name
-`Seasonal-Agriculture-Performance-Analysis-Abhishek-Tiwari`
-
-## Submission deadline
-The mentor message states **10 September 2026** as the final project submission date.
